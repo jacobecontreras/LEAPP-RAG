@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This project explores the mechanics of AI agents within a forensic context. Its primary utility is to assist in locating evidence within LEAPP reports, acting as a navigational aid rather than an analytical replacement.
+This project explores the mechanics of AI agents within a forensic context. Its primary utility is to assist in locating evidence within LEAPP reports.
 
 The system utilizes a RAG (Retrieval-Augmented Generation) architecture combined with a custom ReAct (Reasoning + Acting) Agent to parse and interact with report data.
 
